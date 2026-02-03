@@ -1,4 +1,4 @@
-# OVERVIEW
+# AIRCRAFT ACCIDENTS ANALYSIS
 
 Ndege Holding.Inc is expanding to new horizons in order to diversify the portfolio to new markets, aviation sector has selected as the new frontier. The board has acquired crucial data from NTSB that would help make an informed decision in purchasing and operating airplanes for commercial and private enterprises. 
 
@@ -15,7 +15,7 @@ Aircraft purchase and maintenance require huge financial costs, compounded by ac
 
     1. Clean and prepare data (flight) to give accurate analysis
     2. Quantify aircraft risk by defining measurable indicators (frequency and severity).
-    3. Compare and Identify low risk aircraft based on maintenance and safety performance
+    3. Compare and identify low risk aircraft based on maintenance and safety performance
     4. Visualize trends and insights for high level decision makers.
     5. Translate analytical findings into actionable recommendations for aircraft acquisition decisions.
 
